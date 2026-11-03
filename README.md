@@ -1,6 +1,6 @@
 # Hi, I'm Tejaswini 👋
 
-**Software Engineer at Microsoft** — Azure, Intune & PKI, working on the cloud services and certificate diagnostics behind endpoint security at fleet scale. Previously a Senior Software Engineer at Intel (IoT) and an R&D Software Engineer (AI). M.S. Computer Science, UT Dallas.
+Software engineer working on cloud services and endpoint security at fleet scale. Previously in IoT systems and applied AI research. M.S. Computer Science, UT Dallas.
 
 These days my curiosity runs in one direction: **what happens when AI systems have to be trusted in the real world — evaluated, gated, and still running years from now, in homes that outlive the people who set them up.**
 
@@ -20,7 +20,7 @@ These days my curiosity runs in one direction: **what happens when AI systems ha
 
 ## Writing
 
-I write **Human Systems** on Substack — essays on the inner machinery of being a person, written by an engineer who thinks in systems: attachment, rumination, the nervous system as the oldest distributed system we own.
+I write **Human Systems** — essays on the inner machinery of being a person, written by an engineer who thinks in systems: attachment, rumination, the nervous system as the oldest distributed system we own.
 
 ## Background
 
